@@ -1,0 +1,6 @@
+{
+  "name": "Bảo vật Quốc gia theo Thời kỳ Lịch sử (D03)",
+  "description": "Cổng tư liệu bảo tàng số giới thiệu 15 Bảo vật Quốc gia Việt Nam theo các thời kỳ lịch sử (Đông Sơn, Lý, Trần, Lê, Nguyễn), tích hợp tra cứu chuẩn 23 trường thông tin, xuất dữ liệu JSON/CSV và hỏi đáp AI Gemini chuẩn hóa từ hồ sơ di sản.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
